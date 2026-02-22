@@ -1,4 +1,4 @@
-# Ensemble Trading System
+# Causal_Intraday_trading_alpha
 
 A causal, intraday ML trading system that predicts 30-bar forward returns of P3 using an XGBoost + LightGBM ensemble with Optuna hyperparameter tuning.
 
