@@ -1,0 +1,737 @@
+[
+  {
+    "file": "108.csv",
+    "file_id": "108",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": -0.36337284865577146,
+      "sharpe_ratio": -0.5783197758865721,
+      "win_rate": 0.526595744680851,
+      "n_trades": 273,
+      "max_drawdown": -0.8696555779304305,
+      "profit_factor": 0.8864590825631715,
+      "total_bars": 20061,
+      "direction_accuracy": 0.49830508474576274
+    },
+    "xgboost": {
+      "total_pnl": 0.44953475567669443,
+      "sharpe_ratio": 0.7769679542618516,
+      "win_rate": 0.62,
+      "n_trades": 448,
+      "max_drawdown": -0.3734525850458965,
+      "profit_factor": 1.1626326309991535,
+      "total_bars": 20061,
+      "direction_accuracy": 0.5075274177467597
+    },
+    "lightgbm": {
+      "total_pnl": -0.16124007428454945,
+      "sharpe_ratio": -0.26092204804278396,
+      "win_rate": 0.5555555555555556,
+      "n_trades": 254,
+      "max_drawdown": -0.6675842619189467,
+      "profit_factor": 0.9454608050161154,
+      "total_bars": 20061,
+      "direction_accuracy": 0.49491525423728816
+    }
+  },
+  {
+    "file": "109.csv",
+    "file_id": "109",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": 0.5092923658144599,
+      "sharpe_ratio": 1.0310191768143244,
+      "win_rate": 0.5817307692307693,
+      "n_trades": 359,
+      "max_drawdown": -0.4683152535202595,
+      "profit_factor": 1.249698157327853,
+      "total_bars": 20060,
+      "direction_accuracy": 0.522382851445663
+    },
+    "xgboost": {
+      "total_pnl": -0.42651196518137624,
+      "sharpe_ratio": -0.7536970897243545,
+      "win_rate": 0.5670103092783505,
+      "n_trades": 525,
+      "max_drawdown": -0.6966272200981933,
+      "profit_factor": 0.873961819315717,
+      "total_bars": 20061,
+      "direction_accuracy": 0.5086739780658026
+    },
+    "lightgbm": {
+      "total_pnl": 0.5428311950430356,
+      "sharpe_ratio": 1.0947861134295072,
+      "win_rate": 0.5806451612903226,
+      "n_trades": 305,
+      "max_drawdown": -0.5551702766360336,
+      "profit_factor": 1.2872565697116605,
+      "total_bars": 20060,
+      "direction_accuracy": 0.5233798604187437
+    }
+  },
+  {
+    "file": "110.csv",
+    "file_id": "110",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": -0.22770879604716754,
+      "sharpe_ratio": -0.4827255894870195,
+      "win_rate": 0.5299145299145299,
+      "n_trades": 361,
+      "max_drawdown": -0.4271498770368254,
+      "profit_factor": 0.911017601821402,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4980558325024925
+    },
+    "xgboost": {
+      "total_pnl": -0.25174109511320353,
+      "sharpe_ratio": -0.5110233925013079,
+      "win_rate": 0.5823293172690763,
+      "n_trades": 426,
+      "max_drawdown": -0.4328222620427198,
+      "profit_factor": 0.9119378577052165,
+      "total_bars": 20061,
+      "direction_accuracy": 0.5140578265204386
+    },
+    "lightgbm": {
+      "total_pnl": -0.36261330805288594,
+      "sharpe_ratio": -0.7632427030535996,
+      "win_rate": 0.49390243902439024,
+      "n_trades": 219,
+      "max_drawdown": -0.5213844479675203,
+      "profit_factor": 0.8409669496135203,
+      "total_bars": 20061,
+      "direction_accuracy": 0.49835493519441676
+    }
+  },
+  {
+    "file": "111.csv",
+    "file_id": "111",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": -0.3036148713881772,
+      "sharpe_ratio": -0.5091745586173484,
+      "win_rate": 0.5336538461538461,
+      "n_trades": 330,
+      "max_drawdown": -0.7505468095900056,
+      "profit_factor": 0.9043462739838255,
+      "total_bars": 20061,
+      "direction_accuracy": 0.48005982053838486
+    },
+    "xgboost": {
+      "total_pnl": 0.9693373656014188,
+      "sharpe_ratio": 1.5557682866038391,
+      "win_rate": 0.5789473684210527,
+      "n_trades": 465,
+      "max_drawdown": -0.26193275663396776,
+      "profit_factor": 1.3328837151901385,
+      "total_bars": 20060,
+      "direction_accuracy": 0.48903290129611166
+    },
+    "lightgbm": {
+      "total_pnl": -0.33422974484847146,
+      "sharpe_ratio": -0.5887103119405893,
+      "win_rate": 0.5595238095238095,
+      "n_trades": 250,
+      "max_drawdown": -0.720719511239551,
+      "profit_factor": 0.8798578803785464,
+      "total_bars": 20061,
+      "direction_accuracy": 0.480259222333001
+    }
+  },
+  {
+    "file": "112.csv",
+    "file_id": "112",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": -0.4458490141173286,
+      "sharpe_ratio": -0.5123454334132239,
+      "win_rate": 0.5647058823529412,
+      "n_trades": 264,
+      "max_drawdown": -0.8390392974755514,
+      "profit_factor": 0.8939464922533437,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4957128614157527
+    },
+    "xgboost": {
+      "total_pnl": 0.6117569829539491,
+      "sharpe_ratio": 0.7294963657085711,
+      "win_rate": 0.610236220472441,
+      "n_trades": 459,
+      "max_drawdown": -0.6334703433348068,
+      "profit_factor": 1.1524473330272325,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4836490528414756
+    },
+    "lightgbm": {
+      "total_pnl": -0.19923591108990024,
+      "sharpe_ratio": -0.2352864593065367,
+      "win_rate": 0.5660377358490566,
+      "n_trades": 215,
+      "max_drawdown": -0.9038206331754566,
+      "profit_factor": 0.9480573363703216,
+      "total_bars": 20061,
+      "direction_accuracy": 0.49481555333998006
+    }
+  },
+  {
+    "file": "113.csv",
+    "file_id": "113",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": -0.7313084101715503,
+      "sharpe_ratio": -2.0800954583183437,
+      "win_rate": 0.4294117647058823,
+      "n_trades": 266,
+      "max_drawdown": -0.7711706155892699,
+      "profit_factor": 0.6288482698874178,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4687936191425723
+    },
+    "xgboost": {
+      "total_pnl": -0.05465097993580059,
+      "sharpe_ratio": -0.15117401337232445,
+      "win_rate": 0.5397923875432526,
+      "n_trades": 507,
+      "max_drawdown": -0.43795348282088753,
+      "profit_factor": 0.9756791401733168,
+      "total_bars": 20060,
+      "direction_accuracy": 0.49825523429710866
+    },
+    "lightgbm": {
+      "total_pnl": -0.8662601463782096,
+      "sharpe_ratio": -2.236330890803186,
+      "win_rate": 0.4125874125874126,
+      "n_trades": 190,
+      "max_drawdown": -0.9378317769324269,
+      "profit_factor": 0.5865748639834841,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4745264207377866
+    }
+  },
+  {
+    "file": "114.csv",
+    "file_id": "114",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": 0.9769131057662293,
+      "sharpe_ratio": 1.4782186496008154,
+      "win_rate": 0.5590909090909091,
+      "n_trades": 364,
+      "max_drawdown": -0.29753539756521263,
+      "profit_factor": 1.3730861317315264,
+      "total_bars": 20061,
+      "direction_accuracy": 0.5351445663010967
+    },
+    "xgboost": {
+      "total_pnl": 0.7036826432748029,
+      "sharpe_ratio": 1.094201989109692,
+      "win_rate": 0.5533980582524272,
+      "n_trades": 361,
+      "max_drawdown": -0.4178657886842956,
+      "profit_factor": 1.3280487318948482,
+      "total_bars": 20061,
+      "direction_accuracy": 0.497357926221336
+    },
+    "lightgbm": {
+      "total_pnl": 1.4874351313393248,
+      "sharpe_ratio": 2.0255034411498105,
+      "win_rate": 0.5964912280701754,
+      "n_trades": 252,
+      "max_drawdown": -0.2657146090546689,
+      "profit_factor": 1.678088001831891,
+      "total_bars": 20061,
+      "direction_accuracy": 0.5363409770687936
+    }
+  },
+  {
+    "file": "115.csv",
+    "file_id": "115",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": 1.2115508598769367,
+      "sharpe_ratio": 1.2093040254965746,
+      "win_rate": 0.59375,
+      "n_trades": 229,
+      "max_drawdown": -0.42483919295709427,
+      "profit_factor": 1.5241890016104604,
+      "total_bars": 20061,
+      "direction_accuracy": 0.492073778664008
+    },
+    "xgboost": {
+      "total_pnl": -0.7044967335004344,
+      "sharpe_ratio": -1.1845758717366102,
+      "win_rate": 0.5642201834862385,
+      "n_trades": 372,
+      "max_drawdown": -1.1259042675285826,
+      "profit_factor": 0.7674843987250717,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4885343968095713
+    },
+    "lightgbm": {
+      "total_pnl": 0.9467273953576978,
+      "sharpe_ratio": 0.9412408971016278,
+      "win_rate": 0.5348837209302325,
+      "n_trades": 169,
+      "max_drawdown": -0.44945299044388776,
+      "profit_factor": 1.4323719414263496,
+      "total_bars": 20061,
+      "direction_accuracy": 0.48953140578265203
+    }
+  },
+  {
+    "file": "116.csv",
+    "file_id": "116",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": -0.22161348116091517,
+      "sharpe_ratio": -0.7120547940231112,
+      "win_rate": 0.5153374233128835,
+      "n_trades": 222,
+      "max_drawdown": -0.37308681095134943,
+      "profit_factor": 0.8608851136241364,
+      "total_bars": 20061,
+      "direction_accuracy": 0.486839481555334
+    },
+    "xgboost": {
+      "total_pnl": 0.1347694228346512,
+      "sharpe_ratio": 0.4222733815491496,
+      "win_rate": 0.5506072874493927,
+      "n_trades": 438,
+      "max_drawdown": -0.46287540504020797,
+      "profit_factor": 1.0832791971206763,
+      "total_bars": 20061,
+      "direction_accuracy": 0.514406779661017
+    },
+    "lightgbm": {
+      "total_pnl": 0.05918574330134163,
+      "sharpe_ratio": 0.19393315672539485,
+      "win_rate": 0.5357142857142857,
+      "n_trades": 172,
+      "max_drawdown": -0.254778892751645,
+      "profit_factor": 1.0436821465390296,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4886340977068794
+    }
+  },
+  {
+    "file": "117.csv",
+    "file_id": "117",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": -0.20707196511335724,
+      "sharpe_ratio": -0.5047060652998707,
+      "win_rate": 0.5220588235294118,
+      "n_trades": 201,
+      "max_drawdown": -0.5223419676696466,
+      "profit_factor": 0.8721926028282513,
+      "total_bars": 20061,
+      "direction_accuracy": 0.501395812562313
+    },
+    "xgboost": {
+      "total_pnl": 0.23584927967043257,
+      "sharpe_ratio": 0.6614041825470185,
+      "win_rate": 0.6304347826086957,
+      "n_trades": 399,
+      "max_drawdown": -0.3972359275159647,
+      "profit_factor": 1.166885633541194,
+      "total_bars": 20061,
+      "direction_accuracy": 0.5189930209371885
+    },
+    "lightgbm": {
+      "total_pnl": -0.19064586242654968,
+      "sharpe_ratio": -0.49067924702484184,
+      "win_rate": 0.5426356589147286,
+      "n_trades": 183,
+      "max_drawdown": -0.4937487684785964,
+      "profit_factor": 0.8737235832527481,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4988035892323031
+    }
+  },
+  {
+    "file": "118.csv",
+    "file_id": "118",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": -0.11995672495794452,
+      "sharpe_ratio": -0.3486784526818819,
+      "win_rate": 0.48314606741573035,
+      "n_trades": 273,
+      "max_drawdown": -0.47538238121131826,
+      "profit_factor": 0.9290601553642966,
+      "total_bars": 20061,
+      "direction_accuracy": 0.47412761714855434
+    },
+    "xgboost": {
+      "total_pnl": 0.30655658677177655,
+      "sharpe_ratio": 0.9674262549647259,
+      "win_rate": 0.5659574468085107,
+      "n_trades": 415,
+      "max_drawdown": -0.2209499201399865,
+      "profit_factor": 1.2028573880145574,
+      "total_bars": 20061,
+      "direction_accuracy": 0.5182452642073778
+    },
+    "lightgbm": {
+      "total_pnl": -0.34208653495598185,
+      "sharpe_ratio": -0.9713311280231322,
+      "win_rate": 0.47560975609756095,
+      "n_trades": 221,
+      "max_drawdown": -0.4922095065462173,
+      "profit_factor": 0.8095906386752912,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4744267198404786
+    }
+  },
+  {
+    "file": "119.csv",
+    "file_id": "119",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": 0.4386149916715709,
+      "sharpe_ratio": 1.0826544264905635,
+      "win_rate": 0.6342857142857142,
+      "n_trades": 313,
+      "max_drawdown": -0.2831750137491582,
+      "profit_factor": 1.3256989210443886,
+      "total_bars": 20061,
+      "direction_accuracy": 0.5060817547357926
+    },
+    "xgboost": {
+      "total_pnl": -0.23633866233127776,
+      "sharpe_ratio": -0.6232284542524489,
+      "win_rate": 0.5324074074074074,
+      "n_trades": 373,
+      "max_drawdown": -0.4313504439688671,
+      "profit_factor": 0.8738654186887744,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4950149551345962
+    },
+    "lightgbm": {
+      "total_pnl": 0.18970419959715912,
+      "sharpe_ratio": 0.5120305822016186,
+      "win_rate": 0.6258992805755396,
+      "n_trades": 239,
+      "max_drawdown": -0.36647122765617723,
+      "profit_factor": 1.1606766048219321,
+      "total_bars": 20060,
+      "direction_accuracy": 0.5113659022931206
+    }
+  },
+  {
+    "file": "131.csv",
+    "file_id": "131",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": 0.2629424412182857,
+      "sharpe_ratio": 0.5126359067470698,
+      "win_rate": 0.5569620253164557,
+      "n_trades": 378,
+      "max_drawdown": -0.5507280105076688,
+      "profit_factor": 1.0974819918134429,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4935194416749751
+    },
+    "xgboost": {
+      "total_pnl": 0.45852445170562817,
+      "sharpe_ratio": 0.8184342336398097,
+      "win_rate": 0.5934065934065934,
+      "n_trades": 477,
+      "max_drawdown": -0.42205640198857,
+      "profit_factor": 1.1644231978280692,
+      "total_bars": 20061,
+      "direction_accuracy": 0.49750747756729813
+    },
+    "lightgbm": {
+      "total_pnl": -0.04571025010884,
+      "sharpe_ratio": -0.08842997671939241,
+      "win_rate": 0.5124378109452736,
+      "n_trades": 288,
+      "max_drawdown": -0.594248439984213,
+      "profit_factor": 0.9827745915366615,
+      "total_bars": 20061,
+      "direction_accuracy": 0.49386839481555334
+    }
+  },
+  {
+    "file": "132.csv",
+    "file_id": "132",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": -0.20550175427737827,
+      "sharpe_ratio": -0.4492949049384128,
+      "win_rate": 0.5283018867924528,
+      "n_trades": 394,
+      "max_drawdown": -0.46085837289341214,
+      "profit_factor": 0.9258140360157247,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4797607178464606
+    },
+    "xgboost": {
+      "total_pnl": 0.2924902556537887,
+      "sharpe_ratio": 0.607290095538128,
+      "win_rate": 0.6175438596491228,
+      "n_trades": 521,
+      "max_drawdown": -0.5356033551641843,
+      "profit_factor": 1.1128620723420564,
+      "total_bars": 20061,
+      "direction_accuracy": 0.5078265204386839
+    },
+    "lightgbm": {
+      "total_pnl": 0.11267306338605465,
+      "sharpe_ratio": 0.24846757907194505,
+      "win_rate": 0.5432098765432098,
+      "n_trades": 334,
+      "max_drawdown": -0.31649287791387337,
+      "profit_factor": 1.045642448038974,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4809571286141575
+    }
+  },
+  {
+    "file": "133.csv",
+    "file_id": "133",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": 0.777540101088789,
+      "sharpe_ratio": 1.9765467989747363,
+      "win_rate": 0.5726141078838174,
+      "n_trades": 409,
+      "max_drawdown": -0.24742838525172317,
+      "profit_factor": 1.421763055832029,
+      "total_bars": 20060,
+      "direction_accuracy": 0.5180458624127617
+    },
+    "xgboost": {
+      "total_pnl": -0.5428747080551091,
+      "sharpe_ratio": -1.207136410489773,
+      "win_rate": 0.51440329218107,
+      "n_trades": 439,
+      "max_drawdown": -0.5991326216814059,
+      "profit_factor": 0.7972961501778171,
+      "total_bars": 20061,
+      "direction_accuracy": 0.48005982053838486
+    },
+    "lightgbm": {
+      "total_pnl": 0.5491537247160494,
+      "sharpe_ratio": 1.3819643102248182,
+      "win_rate": 0.5323383084577115,
+      "n_trades": 322,
+      "max_drawdown": -0.234405679926752,
+      "profit_factor": 1.3065008159315303,
+      "total_bars": 20060,
+      "direction_accuracy": 0.5199401794616152
+    }
+  },
+  {
+    "file": "134.csv",
+    "file_id": "134",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": -0.419033101378929,
+      "sharpe_ratio": -0.8016610414932757,
+      "win_rate": 0.5291828793774319,
+      "n_trades": 468,
+      "max_drawdown": -1.1227700593497474,
+      "profit_factor": 0.8750770468057959,
+      "total_bars": 20060,
+      "direction_accuracy": 0.5077268195413759
+    },
+    "xgboost": {
+      "total_pnl": -0.9320281306571303,
+      "sharpe_ratio": -1.332285708270126,
+      "win_rate": 0.6086956521739131,
+      "n_trades": 553,
+      "max_drawdown": -1.2046120373492215,
+      "profit_factor": 0.7891725256442957,
+      "total_bars": 20060,
+      "direction_accuracy": 0.47417746759720836
+    },
+    "lightgbm": {
+      "total_pnl": 0.5851392418203858,
+      "sharpe_ratio": 1.0815855844210926,
+      "win_rate": 0.5409836065573771,
+      "n_trades": 435,
+      "max_drawdown": -0.4518141534240243,
+      "profit_factor": 1.197223564306222,
+      "total_bars": 20060,
+      "direction_accuracy": 0.5076271186440678
+    }
+  },
+  {
+    "file": "135.csv",
+    "file_id": "135",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": 0.746951035810838,
+      "sharpe_ratio": 1.386555294180553,
+      "win_rate": 0.6056338028169014,
+      "n_trades": 306,
+      "max_drawdown": -0.26067111822412414,
+      "profit_factor": 1.3105453561027445,
+      "total_bars": 20061,
+      "direction_accuracy": 0.5277168494516451
+    },
+    "xgboost": {
+      "total_pnl": -0.17598157655336877,
+      "sharpe_ratio": -0.3434726757298419,
+      "win_rate": 0.5369127516778524,
+      "n_trades": 511,
+      "max_drawdown": -0.37161001777818115,
+      "profit_factor": 0.9479496451711834,
+      "total_bars": 20061,
+      "direction_accuracy": 0.5007477567298105
+    },
+    "lightgbm": {
+      "total_pnl": 0.6600880543021503,
+      "sharpe_ratio": 1.1857990302714825,
+      "win_rate": 0.6031746031746031,
+      "n_trades": 271,
+      "max_drawdown": -0.21943460854512864,
+      "profit_factor": 1.274360062515199,
+      "total_bars": 20060,
+      "direction_accuracy": 0.5302093718843469
+    }
+  },
+  {
+    "file": "136.csv",
+    "file_id": "136",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": -0.9161035360689311,
+      "sharpe_ratio": -1.5675917141889273,
+      "win_rate": 0.5350877192982456,
+      "n_trades": 328,
+      "max_drawdown": -1.087240738530113,
+      "profit_factor": 0.7290926572096974,
+      "total_bars": 20061,
+      "direction_accuracy": 0.48195413758723826
+    },
+    "xgboost": {
+      "total_pnl": -0.46718808458786043,
+      "sharpe_ratio": -0.9281030174020973,
+      "win_rate": 0.5509433962264151,
+      "n_trades": 460,
+      "max_drawdown": -0.7279377953098418,
+      "profit_factor": 0.8402153361111226,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4797607178464606
+    },
+    "lightgbm": {
+      "total_pnl": -0.8094815078331408,
+      "sharpe_ratio": -1.4094189624275482,
+      "win_rate": 0.5467289719626168,
+      "n_trades": 298,
+      "max_drawdown": -0.9568902592734929,
+      "profit_factor": 0.7436752327568905,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4845962113659023
+    }
+  },
+  {
+    "file": "137.csv",
+    "file_id": "137",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": 0.022825174339899945,
+      "sharpe_ratio": 0.05944927484530371,
+      "win_rate": 0.5433526011560693,
+      "n_trades": 245,
+      "max_drawdown": -0.38511459036405427,
+      "profit_factor": 1.012609104259578,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4978065802592223
+    },
+    "xgboost": {
+      "total_pnl": 0.5091199503117139,
+      "sharpe_ratio": 1.2731892981780755,
+      "win_rate": 0.5889328063241107,
+      "n_trades": 461,
+      "max_drawdown": -0.2738214210249623,
+      "profit_factor": 1.2797555303454935,
+      "total_bars": 20061,
+      "direction_accuracy": 0.5123629112662014
+    },
+    "lightgbm": {
+      "total_pnl": -0.13594107967294633,
+      "sharpe_ratio": -0.3447431333692172,
+      "win_rate": 0.5732484076433121,
+      "n_trades": 199,
+      "max_drawdown": -0.5318184243983097,
+      "profit_factor": 0.9271665726781523,
+      "total_bars": 20061,
+      "direction_accuracy": 0.5008973080757727
+    }
+  },
+  {
+    "file": "138.csv",
+    "file_id": "138",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": -0.19593187920946775,
+      "sharpe_ratio": -0.5008252282465446,
+      "win_rate": 0.515625,
+      "n_trades": 329,
+      "max_drawdown": -0.5961567356437172,
+      "profit_factor": 0.9050886893097082,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4878863409770688
+    },
+    "xgboost": {
+      "total_pnl": 0.3643155934490636,
+      "sharpe_ratio": 0.9337119983324299,
+      "win_rate": 0.6091205211726385,
+      "n_trades": 545,
+      "max_drawdown": -0.3190512106686043,
+      "profit_factor": 1.1650926175721976,
+      "total_bars": 20060,
+      "direction_accuracy": 0.502691924227318
+    },
+    "lightgbm": {
+      "total_pnl": -0.5358823711815575,
+      "sharpe_ratio": -1.4422664761815605,
+      "win_rate": 0.4666666666666667,
+      "n_trades": 240,
+      "max_drawdown": -0.6334669284279499,
+      "profit_factor": 0.7218433566075625,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4880358923230309
+    }
+  },
+  {
+    "file": "139.csv",
+    "file_id": "139",
+    "n_bars": 20090,
+    "ensemble": {
+      "total_pnl": 0.1364634147477659,
+      "sharpe_ratio": 0.35538876488557686,
+      "win_rate": 0.508695652173913,
+      "n_trades": 404,
+      "max_drawdown": -0.6054172000340969,
+      "profit_factor": 1.0694448357606074,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4902293120638086
+    },
+    "xgboost": {
+      "total_pnl": 0.2977900543875336,
+      "sharpe_ratio": 0.6009822602296683,
+      "win_rate": 0.6159695817490495,
+      "n_trades": 459,
+      "max_drawdown": -0.521481418992721,
+      "profit_factor": 1.1310466704736502,
+      "total_bars": 20061,
+      "direction_accuracy": 0.5233798604187437
+    },
+    "lightgbm": {
+      "total_pnl": 0.39031748348656947,
+      "sharpe_ratio": 1.0489257402201382,
+      "win_rate": 0.5348837209302325,
+      "n_trades": 361,
+      "max_drawdown": -0.4474570746222213,
+      "profit_factor": 1.226601930128087,
+      "total_bars": 20061,
+      "direction_accuracy": 0.4886340977068794
+    }
+  }
+]

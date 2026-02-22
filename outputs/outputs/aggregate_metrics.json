@@ -1,0 +1,41 @@
+{
+  "ensemble": {
+    "total_pnl": 0.7260271077878571,
+    "avg_pnl": 0.034572719418469386,
+    "std_pnl": 0.5482076566872454,
+    "avg_sharpe": 0.0021094905448088563,
+    "avg_win_rate": 0.5413874833089883,
+    "total_trades": 6716,
+    "avg_trades_per_file": 319.8095238095238,
+    "avg_direction_accuracy": 0.4973151972653468,
+    "profitable_files": 9,
+    "profitable_file_pct": 42.857142857142854,
+    "n_files_tested": 21
+  },
+  "xgboost": {
+    "total_pnl": 1.5419154063758924,
+    "avg_pnl": 0.07342454316075678,
+    "std_pnl": 0.49063290404078946,
+    "avg_sharpe": 0.16221188891352736,
+    "avg_win_rate": 0.5776794868360766,
+    "total_trades": 9614,
+    "avg_trades_per_file": 457.8095238095238,
+    "avg_direction_accuracy": 0.5005839623985187,
+    "profitable_files": 12,
+    "profitable_file_pct": 57.14285714285714,
+    "n_files_tested": 21
+  },
+  "lightgbm": {
+    "total_pnl": 1.5399284415167358,
+    "avg_pnl": 0.07332992578651124,
+    "std_pnl": 0.566962375295843,
+    "avg_sharpe": 0.0420416713297642,
+    "avg_win_rate": 0.5396741912863844,
+    "total_trades": 5417,
+    "avg_trades_per_file": 257.95238095238096,
+    "avg_direction_accuracy": 0.49810093528937005,
+    "profitable_files": 10,
+    "profitable_file_pct": 47.61904761904761,
+    "n_files_tested": 21
+  }
+}
